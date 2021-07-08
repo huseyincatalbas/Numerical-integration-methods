@@ -13,7 +13,9 @@ açıklanmıştır.</br>
 En basit tanımıyla, bir f(x) fonksiyonunun [a,b] aralığındaki integrali f(x) fonksiyonu ile x
 ekseni arasında kalan, a ve b ile sınırlanan alandır.</br>
 
-![image](https://user-images.githubusercontent.com/81113873/112179840-14b78600-8c0c-11eb-83af-61d9d13e7aa9.png)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/81113873/112179840-14b78600-8c0c-11eb-83af-61d9d13e7aa9.png">
+</p>
 
 Nümerik integrasyonda temel fikir, alanı küçük alt alanlara bölmek, alt alanların her birini
 yaklaşık olarak hesaplamak ve bu alanları toplamaktan ibarettir.
@@ -25,16 +27,24 @@ Yapmış olduğu kodlamada kullandığım yöntemler ise şu şekildedir:</br>
 * Simpson Kuralı</br>
 
 ### Dikdörtgen Kuralı</br>
-![image](https://user-images.githubusercontent.com/81113873/112180446-9effea00-8c0c-11eb-928a-ac54c0f2d36b.png)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/81113873/112180446-9effea00-8c0c-11eb-928a-ac54c0f2d36b.png">
+</p>
 
 ### Dikdörtgen Orta Nokta Kuralı</br>
-![image](https://user-images.githubusercontent.com/81113873/112180551-b63ed780-8c0c-11eb-9cbc-d439e9d4fd9e.png)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/81113873/112180551-b63ed780-8c0c-11eb-9cbc-d439e9d4fd9e.png">
+</p>
 
 ### Yamuk(Trapez) Kuralı</br>
-![image](https://user-images.githubusercontent.com/81113873/112180613-c35bc680-8c0c-11eb-8606-c70fb54124f5.png)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/81113873/112180613-c35bc680-8c0c-11eb-8606-c70fb54124f5.png">
+</p>
 
 ### Simpson Kuralı</br>
-![image](https://user-images.githubusercontent.com/81113873/112180681-cf478880-8c0c-11eb-9e5a-c78e2a6d3e45.png)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/81113873/112180681-cf478880-8c0c-11eb-9e5a-c78e2a6d3e45.png">
+</p>
 
 ## Proje Özellikleri / Project Features
 * 4 farklı yöntemden herhangi birini seçerek hesaplama yaptırabilme.</br>
